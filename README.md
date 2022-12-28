@@ -17,7 +17,7 @@ Making the frontend part of my project DAO smart contract!
 
 ```bash
 # Clone this project
-$ git clone https://github.com/catherinee24/DAO-FRONT
+$ git clone https://github.com/gab0071/DAO-FRONT
 
 # Access
 $ cd DAO-FRONT
